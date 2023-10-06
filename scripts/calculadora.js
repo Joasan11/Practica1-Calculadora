@@ -1,5 +1,5 @@
 //Joaquín Sánchez Miravalles
-//
+//https://github.com/Joasan11/Practica1-Calculadora
 
 var valorActual = '0';
 var operadorActual = null;
